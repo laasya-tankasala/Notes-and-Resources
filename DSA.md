@@ -15,7 +15,7 @@ My Suggestions:
 2. GeeksForGeeks, again, ofc. to LEARN/UNDERSTAND
    https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/
    why?
-   - BEST : for most of the problems, under related articles secttion, you can find **a GFG article** that has probably all possible approaches (naive/brute force,        alternate, expected) with a detailed explanation of the idea behind, step-by-step notes and slides, 
+   - BEST : for most of the problems, under related articles section, you can find **a GFG article** that has probably all possible approaches (naive/brute force,        alternate, expected) with a detailed explanation of the idea behind, step-by-step notes and slides, 
    - **Company tags**, unlike Leetcode you don't need premium to unlock company tags.
 
 
