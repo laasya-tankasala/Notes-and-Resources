@@ -1,0 +1,7 @@
+#Coding Practices
+
+This file shall have those unspoken coding practices and tips/shortcuts. 
+
+1. Follow Developer Style Guide for your language if your project doesn't have its own!  
+   https://developers.google.com/style/code-samples#code-style-guides
+2. 
